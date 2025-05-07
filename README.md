@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hey, I'm Charles Laing
 
-<!--
-**laingcc/laingcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer based in Edmonton, currently working at **NOV Inc.**, where I help build complex data visualization tools for engineering workflows.
 
-Here are some ideas to get you started:
+By day, I wrangle Angular, TypeScript, and Three.js to bring heavy industrial data to life.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧰 Tools of the Trade
+
+- **Languages**: TypeScript, JavaScript, Python  
+- **Frameworks**: Angular, Node.js, Flask  
+- **Visualization**: Highcharts, Three.js
+- **Dev Tools**: Docker, GitHub Actions, Linux, SQL  
+- **Other**: Emacs muscle memory, Model M keyboard clicker
+
+---
+
+## 🔭 Currently Working On
+
+- Improving unit synchronization and reactivity across complex Angular components  
+- Tuning Three.js rendering performance for smoother 3D interactions  
+
+---
+
+## 🤝 Let’s Connect
+
+- 📧 [chuck@quadratrix.ca](mailto:chuck@quadratrix.ca)  
+- 🔗 [linkedin.com/in/charleslaing](https://www.linkedin.com/in/charleslaing)  
+- ORCID: [0000-0003-0406-6982](https://orcid.org/0000-0003-0406-6982)
