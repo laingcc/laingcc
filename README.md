@@ -19,7 +19,8 @@ By day, I wrangle Angular, TypeScript, and Three.js to bring heavy industrial da
 ## 🔭 Currently Working On
 
 - Improving unit synchronization and reactivity across complex Angular components  
-- Tuning Three.js rendering performance for smoother 3D interactions  
+- Tuning Three.js rendering performance for smoother 3D interactions
+- http://modmod.fun  
 
 ---
 
